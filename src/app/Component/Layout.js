@@ -63,6 +63,16 @@ function Layout() {
           </div>
         </div>
       </div>
+      <div class="container-xl">
+	<div class="table-responsive d-flex flex-column">
+        <Alert/>
+        <div className="table-wrapper">
+          <Narbar/>
+          <Pagiiation/>
+          <UserTable/>
+
+        </div>
+  </div>
     </>
   );
 }
