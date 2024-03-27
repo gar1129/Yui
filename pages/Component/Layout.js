@@ -63,11 +63,11 @@ function Layout() {
           </div>
         </div>
       </div>
-      <div class="container-xl">
-	<div class="table-responsive d-flex flex-column">
+      <div className="container-xl">
+	<div className="table-responsive d-flex flex-column">
         <Alert/>
         <div className="table-wrapper">
-          <Narbar/>
+          <Navbar/>
           <Pagiiation/>
           <UserTable/>
 

@@ -9,11 +9,11 @@ export default function Home (){
     return (
         <>
             <Head>
-            <title>NextJS MySQL CRUD tutorial</title>
+            <title>Abdul Jabar</title>
                     <meta charSet="UTF-8" />
                     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                     <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
-                    <meta name="Description" content="NextJS MySQL CRUD tutorial"/>
+                    <meta name="Description" content="Abdul Jabar"/>
                     <meta name="author" content = "anand346@BePractical" />
                     <meta name="og:url" content = "https://www.linkedin.com/in/anand346" />
             </Head>
