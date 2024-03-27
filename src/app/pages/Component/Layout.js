@@ -11,7 +11,7 @@ function Layout() {
       <div id="addEmployeeModal" className="modal fade">
         <div className="modal-dialog">
           <div className="modal-content">
-            <form action="#" method="POST">
+            <form>
               <div className="modal-header">
                 <h4 className="modal-title">Add Employee</h4>
                 <button type="button" className="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -72,6 +72,7 @@ function Layout() {
           <UserTable/>
 
         </div>
+  </div>
   </div>
     </>
   );
